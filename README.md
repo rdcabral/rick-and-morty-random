@@ -5,4 +5,4 @@
 
 API used: https://rickandmortyapi.com
 
-1. Clone this repo using `git clone https://github.com/rdcabral/rick-and-morty-random.git`
+Clone this repo using `git clone https://github.com/rdcabral/rick-and-morty-random.git`

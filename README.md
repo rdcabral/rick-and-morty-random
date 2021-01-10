@@ -1,8 +1,7 @@
-# Random characters from Rick and Morty.
+# Rick And Morty Random Characters
 
-![Web](https://i.imgur.com/U6I0PBM.png)  
-![Mobile](https://i.imgur.com/Snf15Kc.png)
+![Web](https://i.imgur.com/U6I0PBM.png)
 
 API used: https://rickandmortyapi.com
 
-Clone this repo using `git clone https://github.com/rdcabral/rick-and-morty-random.git`
+Clone this repository using `git clone https://github.com/rdcabral/rick-and-morty-random.git`
